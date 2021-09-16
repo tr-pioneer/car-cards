@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/car-cards/static/css/main.2baaf773.chunk.css",
-    "main.js": "/car-cards/static/js/main.095363f0.chunk.js",
-    "main.js.map": "/car-cards/static/js/main.095363f0.chunk.js.map",
+    "main.js": "/car-cards/static/js/main.49de6ff6.chunk.js",
+    "main.js.map": "/car-cards/static/js/main.49de6ff6.chunk.js.map",
     "runtime-main.js": "/car-cards/static/js/runtime-main.9aa0fe45.js",
     "runtime-main.js.map": "/car-cards/static/js/runtime-main.9aa0fe45.js.map",
     "static/js/2.accd6bd7.chunk.js": "/car-cards/static/js/2.accd6bd7.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.9aa0fe45.js",
     "static/js/2.accd6bd7.chunk.js",
     "static/css/main.2baaf773.chunk.css",
-    "static/js/main.095363f0.chunk.js"
+    "static/js/main.49de6ff6.chunk.js"
   ]
 }
