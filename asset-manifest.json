@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/cars-cards/static/css/main.b7f8a656.chunk.css",
+    "main.js": "/cars-cards/static/js/main.590cac1a.chunk.js",
+    "main.js.map": "/cars-cards/static/js/main.590cac1a.chunk.js.map",
+    "runtime-main.js": "/cars-cards/static/js/runtime-main.7c28c7f3.js",
+    "runtime-main.js.map": "/cars-cards/static/js/runtime-main.7c28c7f3.js.map",
+    "static/js/2.c126a345.chunk.js": "/cars-cards/static/js/2.c126a345.chunk.js",
+    "static/js/2.c126a345.chunk.js.map": "/cars-cards/static/js/2.c126a345.chunk.js.map",
+    "index.html": "/cars-cards/index.html",
+    "static/css/main.b7f8a656.chunk.css.map": "/cars-cards/static/css/main.b7f8a656.chunk.css.map",
+    "static/js/2.c126a345.chunk.js.LICENSE.txt": "/cars-cards/static/js/2.c126a345.chunk.js.LICENSE.txt",
+    "static/media/2020_Mustang-ShelbyGT500.58b67627.jpg": "/cars-cards/static/media/2020_Mustang-ShelbyGT500.58b67627.jpg",
+    "static/media/Camaro_ZL1_White.bdf3e738.jpg": "/cars-cards/static/media/Camaro_ZL1_White.bdf3e738.jpg",
+    "static/media/Charger_SRT_Redeye.eead3ccb.jpg": "/cars-cards/static/media/Charger_SRT_Redeye.eead3ccb.jpg",
+    "static/media/Corvette_stingray.62fda1bd.jpg": "/cars-cards/static/media/Corvette_stingray.62fda1bd.jpg",
+    "static/media/Dodge_Viper_SRT.66094d10.jfif": "/cars-cards/static/media/Dodge_Viper_SRT.66094d10.jfif",
+    "static/media/Focus_ST.be4e8962.jpg": "/cars-cards/static/media/Focus_ST.be4e8962.jpg",
+    "static/media/Grand_Cherokee_SRT.89d0489d.jpg": "/cars-cards/static/media/Grand_Cherokee_SRT.89d0489d.jpg",
+    "static/media/SRT_Hellcat.2df3b846.jpg": "/cars-cards/static/media/SRT_Hellcat.2df3b846.jpg",
+    "static/media/app.css": "/cars-cards/static/media/bckrn_image_001.64ede9fa.jpg",
+    "static/media/bckrn_image_002.95d04eba.jpg": "/cars-cards/static/media/bckrn_image_002.95d04eba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c28c7f3.js",
+    "static/js/2.c126a345.chunk.js",
+    "static/css/main.b7f8a656.chunk.css",
+    "static/js/main.590cac1a.chunk.js"
+  ]
+}
